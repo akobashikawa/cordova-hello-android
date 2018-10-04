@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "HelloAndroid",
+  "short_name": "HelloAndroid",
+  "version": "me.rulo.helloandroid",
+  "description": "Simple Hello.",
+  "author": "Rulo Kobashikawa",
+  "icons": [],
+  "start_url": "index.html"
+}
